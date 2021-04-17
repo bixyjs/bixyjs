@@ -44,12 +44,3 @@ Selamlar ben Mert 16 Yaşındayım ve yazılımlara ilgim var bu yüzden burday�
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=stocksmith&repo=ml-research)](https://github.com/stocksmith/ml-research)
 
 <br />
-
-
-![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
-</details>
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=ApurvShh007.ApurvShah007)
-
-
-Leave a ⭐️ if you like this template and want to modify it for yourself!

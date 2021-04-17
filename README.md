@@ -3,8 +3,6 @@
  <h2 align="center">Profile</h2>
 </p>
 
-### Hi there 👋 I am [Apurv Shah](https://apurvshah007.github.io)
-
 <a href="https://www.linkedin.com/in/apurv-shah/">
   <img align="left" alt="Apurv's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -31,5 +29,5 @@ Selamlar ben Mert 16 Yaşındayım ve yazılımlara ilgim var bu yüzden burday�
 <br />
 <br />
 <br />
-<details>
+
 

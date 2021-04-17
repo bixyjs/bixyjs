@@ -25,7 +25,7 @@ Selamlar ben Mert 16 Yaşındayım ve yazılımlara ilgim var bu yüzden burday�
 
 <div><p>Github Statlarım: </p></div>
 
-![Apurv's github stats](https://github-readme-stats.vercel.app/api?username=ApurvShah007&show_icons=true)
+![Apurv's github stats](https://github-readme-stats.vercel.app/api?username=bixyjs&show_icons=true)
 <br />
 <br />
 <br />

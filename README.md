@@ -6,7 +6,7 @@
 <div>
  <p>
 
-Selamlar ben Mert 16 Yaşındayım ve yazılımlara ilgim var bu yüzden burdayım. Daha çok 'discord.js', 'html' ve 'css'e ilgim var. 
+Selamlar ben Mert 16 Yaşındayım ve yazılımlara ilgim var bu yüzden burdayım. Yaptığım "Discord Bot" Altyapılarını burada paylaşacağım.
 
 </h4>
 </div>

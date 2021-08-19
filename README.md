@@ -11,10 +11,13 @@ Selamlar ben Mert 16 Yaşındayım ve yazılımlara ilgim var bu yüzden burday�
     <img src="https://komarev.com/ghpvc/?username=bixyjs&color=dc143c"/>
 </div>
 
+## ⚡ Contact
 
 <div align="center">
-    <a href="https://discord.com/users/409604555094097939" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/409604555094097939/"></a>
+    <a href="https://discord.com/users/409604555094097939" target="_blank"><img src="https://shields.io/badge/Xpeaw-111111.svg?&style=for-the-badge&logo=discord&Color=white"></a>
+    <a href="https://github.com/bixyjs" target="_blank"><img src="https://shields.io/badge/Xpeaw-111111.svg?&style=for-the-badge&logo=github&Color=white"></a></a>
 </div>
+
 
 ## 📈 Github İstatistikleri
 

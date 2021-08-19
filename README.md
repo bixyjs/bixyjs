@@ -14,8 +14,8 @@ Selamlar ben Mert 16 Yaşındayım ve yazılımlara ilgim var bu yüzden burday�
 ## ⚡ Contact
 
 <div align="center">
-    <a href="https://discord.com/users/409604555094097939" target="_blank"><img src="https://shields.io/badge/Xpeaw-111111.svg?&style=for-the-badge&logo=discord&Color=white"></a>
-    <a href="https://github.com/bixyjs" target="_blank"><img src="https://shields.io/badge/Xpeaw-111111.svg?&style=for-the-badge&logo=github&Color=white"></a></a>
+    <a href="https://discord.com/users/409604555094097939" target="_blank"><img src="https://shields.io/badge/Bixy-111111.svg?&style=for-the-badge&logo=discord&Color=white"></a>
+    <a href="https://github.com/bixyjs" target="_blank"><img src="https://shields.io/badge/Bixy-111111.svg?&style=for-the-badge&logo=github&Color=white"></a></a>
 </div>
 
 

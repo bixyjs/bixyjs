@@ -3,7 +3,7 @@
 <div>
  <p>
 
-Selamlar ben Mert 16 Yaşındayım ve yazılımlara ilgim var bu yüzden burdayım. Yaptığım "Discord Bot" Altyapılarını burada paylaşacağım.
+Selamlar ben Mert 16 Yaşındayım ve yazılıma ilgim var bu yüzden burdayım. Yaptığım "Discord Bot" Altyapılarını burada paylaşacağım.
 
 </h4>
 </div>

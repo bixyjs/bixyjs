@@ -9,7 +9,7 @@ Selamlar ben Mert 16 Yaşındayım ve yazılıma ilgim var bu yüzden burdayım.
     <img src="https://komarev.com/ghpvc/?username=bixyjs&color=dc143c"/>
 </div>
 
-## ⚡ Contact
+## ⚡ İletişim
 
 <div align="center">
     <a href="https://discord.com/users/409604555094097939" target="_blank"><img src="https://shields.io/badge/Bixy-111111.svg?&style=for-the-badge&logo=discord&Color=white"></a>

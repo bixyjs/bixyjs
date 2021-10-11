@@ -5,7 +5,6 @@ Selamlar ben Mert 16 Yaşındayım ve yazılıma ilgim var bu yüzden burdayım.
 
 </h4>
 <div align="center">
-<a[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/409604555094097939)](https://discord.com/users/409604555094097939)</a>
 
 </div>
 </div>

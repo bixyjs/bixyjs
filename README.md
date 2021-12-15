@@ -2,16 +2,14 @@
 ## 🎉 Merhaba, Ben Bixy
   <h4>
 Selamlar ben Mert 16 yaşındayım ve yazılıma ilgim var bu yüzden burdayım. Yaptığım "Discord Bot" Altyapılarını burada paylaşacağım.
-<div align="center">
-    <a href="https://discord.com/users/804404496967925843" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/804404496967925843"></a>
-</div>
+
 </h4>
 <div align="center">
-
-</div>
-</div>
-<div align="center">
     <img src="https://komarev.com/ghpvc/?username=bixyjs&color=dc143c"/>
+</div>
+
+<div align="center">
+    <a href="https://discord.com/users/804404496967925843" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/804404496967925843"></a>
 </div>
 
 ## ⚡ İletişim

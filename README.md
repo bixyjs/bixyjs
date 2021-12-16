@@ -1,7 +1,7 @@
 
 ## 🎉 Merhaba, Ben Bixy
   <h4>
-Selamlar ben Mert 16 yaşındayım ve yazılıma ilgim var bu yüzden burdayım. Yaptığım "Discord Bot" Altyapılarını burada paylaşacağım.
+Selamlar ben Mert 16 yaşındayım ve Discord botlarına ilgim var bu yüzden burdayım. Yaptığım "Discord Bot" Altyapılarını burada paylaşacağım.
 
 </h4>
 <div align="center">
@@ -15,7 +15,7 @@ Selamlar ben Mert 16 yaşındayım ve yazılıma ilgim var bu yüzden burdayım.
 ## ⚡ İletişim
 
 <div align="center">
-    <a href="https://discord.com/users/409604555094097939" target="_blank"><img src="https://shields.io/badge/Bixy-111111.svg?&style=for-the-badge&logo=discord&Color=white"></a>
+    <a href="https://discord.com/users/804404496967925843" target="_blank"><img src="https://shields.io/badge/Bixy-111111.svg?&style=for-the-badge&logo=discord&Color=white"></a>
     <a href="https://github.com/bixyjs" target="_blank"><img src="https://shields.io/badge/Bixy-111111.svg?&style=for-the-badge&logo=github&Color=white"></a></a>
 </div>
 

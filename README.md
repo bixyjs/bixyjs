@@ -1,5 +1,5 @@
 
-## 🎉 Merhaba, Ben Bixy
+## 🎉 Merhaba, Ben Mert
   <h4>
 Selamlar ben Mert 16 yaşındayım ve Discord botlarına ilgim var bu yüzden burdayım. Yaptığım "Discord Bot" Altyapılarını burada paylaşacağım.
 
